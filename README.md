@@ -1,8 +1,6 @@
 # Chosun_OpenSW
 오픈소스 SW 과제입니다.
 
-abc
-
 명령어 top, ps, jobs, kill에 관한 설명을 담고 있습니다.
 
 ## top
